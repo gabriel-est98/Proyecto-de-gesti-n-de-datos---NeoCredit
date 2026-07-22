@@ -1,4 +1,4 @@
-# Calidad y Limpieza de Datos — Análisis NeoCredit 🏦
+# Calidad y Limpieza de Datos — Análisis NeoCredit 
 
 Este repositorio contiene el desarrollo del Taller 3 sobre calidad y limpieza de datos, aplicado al caso de estudio **NeoCredit**. El objetivo principal de este proyecto es diagnosticar problemas de calidad, aplicar estrategias de limpieza justificadas, transformar variables financieras y validar de forma automatizada que el dataset cumple con las reglas de negocio, preparándolo para un futuro análisis de riesgo crediticio.
 
