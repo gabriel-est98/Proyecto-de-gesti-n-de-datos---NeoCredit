@@ -8,7 +8,7 @@ Aplicar técnicas modernas de detección y limpieza de datos utilizando el ecosi
 ## Dataset Utilizado
 Se utilizó el dataset `solicitudes_credito_neocredit.csv`, el cual contiene **669 solicitudes de crédito** y **21 columnas** con información demográfica, laboral y financiera de los solicitantes.
 
-## 🔍 Principales Hallazgos y Decisiones de Limpieza
+## Principales Hallazgos y Decisiones de Limpieza
 
 A continuación, se detalla el flujo de trabajo y las justificaciones de las decisiones tomadas durante el análisis, basándonos en el perfilado de datos:
 
